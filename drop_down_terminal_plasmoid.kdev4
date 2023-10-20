@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCMakeManager
+Name=drop_down_terminal_plasmoid
