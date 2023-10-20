@@ -1,6 +1,9 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(plasma-drop_down_terminal_plasmoid)
+project(plasma-drop_down_terminal_plasmoid
+    DESCRIPTION "Drop Down Terminal Plasmoid"
+    VERSION ${DDTP_VERSION}
+)
 
 set(QT_MIN_VERSION "5.15.2")
 set(KF5_MIN_VERSION "5.93.0")
